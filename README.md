@@ -1,6 +1,6 @@
 # Basic CRUD with React and Node.js
 
-This is a basic CRUD to learning how to make a CRUD.
+This is a basic CRUD to learning how to make a CRUD. Go on and Try
 
 ## Installation
 
